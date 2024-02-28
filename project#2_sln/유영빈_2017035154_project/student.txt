@@ -1,0 +1,3 @@
+이름>> gap-eul-beong	hong-gil-dong	kim-young-hui	hong-gil-dong
+학번>> 2015038773	2017035000	2017035089	2015036896
+점수>> 88		53		29		18
